@@ -90,7 +90,7 @@ export default function MealDetails() {
               title={`Add to cart · EGP ${meal.price * qty}`}
               onPress={() => {
                 vm.addToCart(meal.id, qty);
-                router.push('/(tabs)/cart');
+                router.push('/cart');
               }}
             />
           </View>
