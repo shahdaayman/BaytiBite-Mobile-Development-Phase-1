@@ -61,7 +61,7 @@ export default function Orders() {
                 onPress={() => {
                   if (isComplete) {
                     vm.reorder(order.id);
-                    router.push('/(tabs)/cart');
+                    router.push('/cart');
                   } else {
                     router.push(`/tracking/${order.id}`);
                   }

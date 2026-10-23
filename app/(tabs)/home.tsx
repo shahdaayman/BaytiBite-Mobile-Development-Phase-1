@@ -39,7 +39,7 @@ export default function Home() {
             </View>
           </View>
           <Pressable
-            onPress={() => router.push('/(tabs)/cart')}
+            onPress={() => router.push('/cart')}
             className="h-11 w-11 items-center justify-center rounded-full bg-white"
           >
             <Ionicons name="bag-outline" size={22} color="#172018" />

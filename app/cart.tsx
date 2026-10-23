@@ -1,9 +1,9 @@
 import { Ionicons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import { Pressable, Text, View } from 'react-native';
-import { Button, Header, MealImage, Screen } from '../../src/components/ui';
-import { meals } from '../../src/data/mockData';
-import { useAppViewModel } from '../../src/viewmodels/AppProvider';
+import { Button, Header, MealImage, Screen } from '../src/components/ui';
+import { meals } from '../src/data/mockData';
+import { useAppViewModel } from '../src/viewmodels/AppProvider';
 
 export default function Cart() {
   const vm = useAppViewModel();
