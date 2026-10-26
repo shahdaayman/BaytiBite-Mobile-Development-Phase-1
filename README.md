@@ -52,4 +52,4 @@ Bayti Byte has been **tested on a physical iOS device using Expo Go with Expo SD
 
 ---
 
-## Video Link: https://drive.google.com/file/d/13djAkDLAA0j3uyCatqdSEyJw81JrtgG/view?usp=sharing
+## Video Link: [https://drive.google.com/file/d/13djAkDLAA0j3uyCatqdSEyJw81JrtgG/view?usp=sharing](https://drive.google.com/file/d/13djAkDLAA0j3uyCatqdSEy-Jw81JrtgG/view?usp=sharing)
