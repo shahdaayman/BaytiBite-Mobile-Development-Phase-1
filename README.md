@@ -21,7 +21,7 @@ Before running the application, make sure you have the following tools installed
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/Bayti-Byte.git
+https://github.com/shahdaayman/BaytiBite-Mobile-Development-Phase-1.git
 ```
 
 ### 2. Navigate to the Project Directory
